@@ -17,6 +17,7 @@ body{
     width: 100%;   
 }
 .navbar{
+    background-color:rgb(144,222,224);
     padding: 15px 18px !important ;   
 }
 .logo{
